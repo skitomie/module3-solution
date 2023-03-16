@@ -24,3 +24,38 @@
  button.navbar-toggle .icon-bar {
     border: 3px solid black;
  }
+
+ #nav-list {
+    margin-top: 10px;
+
+}
+
+#nav-list li, ul {
+color: black;
+text-align: center;
+background-color: white;
+padding-top: 1px;
+padding-bottom: 0;
+}
+
+#nav-list hr {
+    color: black;
+    border-width: 5px;
+    border-color: black;
+
+}
+
+#menu {
+    font-weight:bold;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+}
+
+#content {
+    border: 3px solid black;
+    text-align: justify;
+    background-color: #7b7f7c;
+}
